@@ -1,1 +1,1 @@
-print("asli")
+print(5+5)
